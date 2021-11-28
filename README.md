@@ -1,1 +1,2 @@
 # NBA-Clustering-Project
+This project explored clustering assignments using NBA player data with respect to a Fantasy Basketball scenario. If you wanted to make a trade with another Fantasy manager, could you effectively evaluate the fairness of a trade made on a given date for that players position? Data used was collected from a previous project with a small team of interested students in a database used for future personal projects.
